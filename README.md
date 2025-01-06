@@ -11,14 +11,14 @@
 
 <!-- TABLE OF CONTENTS -->
 
-# 📗 Table of Contents
+#  Table of Contents
 
-- [📖 About the Project](#about-project)
+- [ About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+  - [ Live Demo](#live-demo)
+- [ Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [smartEdConnect] <a name="about-project"></a>
+#  [smartEdConnect] <a name="about-project"></a>
 
 smartEdConnect is a school management system designed to revolutionize how educational institutions manage their administrative and educational processess
 
@@ -74,7 +74,7 @@ smartEdConnect is a school management system designed to revolutionize how educa
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+##  Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://smartedconnect.netlify.app/)
 
@@ -82,7 +82,7 @@ smartEdConnect is a school management system designed to revolutionize how educa
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+##  Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
